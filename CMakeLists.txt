@@ -50,6 +50,7 @@ find_package(catkin REQUIRED COMPONENTS
    TrackMsg.msg
    ModelMsg.msg
    ParamMsg.msg
+   ParticlesMsg.msg
  )
 
 ## Generate services in the 'srv' folder
